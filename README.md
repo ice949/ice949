@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Justine [Ice-berg] Imasiku</h1>
+<h1 align="center">Hi 👋, I'm Justine Imasiku</h1>
 <h3 align="center">A passionate Full Stack developer from Zambia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ice949&label=Profile%20views&color=0e75b6&style=flat" alt="ice949" /> </p>
@@ -27,6 +26,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@ice949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ice949" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/justine imasiku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justine imasiku" height="30" width="40" /></a>
+<a href="https://fb.com/jus-tin ice-bergz ima-siku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jus-tin ice-bergz ima-siku" height="30" width="40" /></a>
 <a href="https://medium.com/@justineimasiku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@justineimasiku" height="30" width="40" /></a>
 <a href="/https://dashboard.rss.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dashboard.rss.com/" height="30" width="40" /></a>
 </p>
@@ -39,4 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ice949&show_icons=true&locale=en" alt="ice949" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ice949&" alt="ice949" /></p>
-
