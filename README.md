@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justine Imasiku</h1>
-<h3 align="center">An Entrepreneur, Founder, CEO and passionate Full Stack developer from Zambia</h3>
+<h3 align="center">An Entrepreneur, Founder, CEO and passionate Full-Stack developer from Zambia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ice949&label=Profile%20views&color=0e75b6&style=flat" alt="ice949" /> </p>
 
