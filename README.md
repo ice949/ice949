@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **justineimasiku21@gmail.com**
 
-- ⚡ Fun fact **I am cool**
+- ⚡ Fun fact **I am always calm**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
