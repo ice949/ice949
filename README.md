@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Justine Imasiku</h1>
-<h3 align="center">An Entrepreneur, Innovator & XR Enthusiast</h3>
+<h3 align="center">An Entrepreneur, Innovator & Frontend Developer</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ice949&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ice949&label=Profile%20views&color=0e75b6&style=flat" alt="ice949" /> </p>
 
-- 🔭 I’m currently working on **Nicetylab**
+- 🔭 I’m currently working on **Optiscan**
 
 - 🌱 I’m currently learning **XR**
 
@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [github/ice949/](github/ice949/)
 
-- 💬 Ask me about **React, JavaScript, Blockchain, **
+- 💬 Ask me about **React, JavaScript, Flutter, Dart, Unity, C# Blockchain, **
 
-- 📫 How to reach me **justineimasiku21@gmail.com**
+- 📫 How to reach me **icebergimasiku@gmail.com**
 
 - ⚡ Fun fact **I am always calm**
 
